@@ -1,0 +1,3796 @@
+{
+ "projeler": [
+  {
+   "slug": "71-evler-mah-balsu-bulvari",
+   "ad": "71 Evler Mah. Balsu Bulvarı",
+   "durum": "biten",
+   "mahalle": "71 Evler",
+   "ilce": null,
+   "adres": "71 Evler Mah. Balsu Bulvarı No:18",
+   "insaat_alani": null,
+   "birimler": [
+    {
+     "adet": 12,
+     "tip": "2+1"
+    },
+    {
+     "adet": 4,
+     "tip": "4+1",
+     "not": "dubleks"
+    }
+   ],
+   "konut": 16,
+   "isyeri": 1,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "71-evler-mah-balsu-bulvari/kapak-01.webp",
+      "w": 498,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/71-evler-mah-balsu-bulvari.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "71-evler-mah-balsu-bulvari/proje-01.webp",
+      "w": 450,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_144.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-balsu-bulvari/proje-02.webp",
+      "w": 450,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_145.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-balsu-bulvari/proje-03.webp",
+      "w": 450,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_146.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-balsu-bulvari/proje-04.webp",
+      "w": 450,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_147.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-balsu-bulvari/proje-05.webp",
+      "w": 450,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_148.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-balsu-bulvari/proje-06.webp",
+      "w": 450,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_149.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.746665,
+    30.580807
+   ]
+  },
+  {
+   "slug": "71-evler-mah-kocakaya-sokak",
+   "ad": "71 Evler Mah. Kocakaya Sokak",
+   "durum": "biten",
+   "mahalle": "71 Evler",
+   "ilce": null,
+   "adres": null,
+   "insaat_alani": null,
+   "birimler": [
+    {
+     "adet": 15,
+     "tip": "3+1"
+    },
+    {
+     "adet": 3,
+     "tip": "2+1"
+    }
+   ],
+   "konut": 18,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [
+    "Yerden Isıtmalı",
+    "Ortak Kapalı Garajlı Daireler"
+   ],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/kapak-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/71-evler-mah-kocakaya-sokak.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/proje-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/proje-02.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_1.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/proje-03.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_2.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/proje-04.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_3.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/proje-05.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_4.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/proje-06.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_5.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/plan-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/kat-planlari.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/plan-02.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/kat-planlari_1.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/plan-03.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/kat-planlari_2.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "yapim": [
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/yapim-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/yapim-02.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_1.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/yapim-03.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_2.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/yapim-04.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_3.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/yapim-05.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_4.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/yapim-06.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_5.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/yapim-07.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_6.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/yapim-08.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_7.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/yapim-09.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_8.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/yapim-10.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_9.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/yapim-11.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_10.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/yapim-12.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_11.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-kocakaya-sokak/yapim-13.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_12.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ]
+   },
+   "tur3d": true,
+   "konum": [
+    39.746665,
+    30.580807
+   ]
+  },
+  {
+   "slug": "71-evler-mah-mine-sokak",
+   "ad": "71 Evler Mah. Mine Sokak",
+   "durum": "biten",
+   "mahalle": "71 Evler",
+   "ilce": null,
+   "adres": null,
+   "insaat_alani": null,
+   "birimler": [
+    {
+     "adet": 6,
+     "tip": "3+1"
+    }
+   ],
+   "konut": 6,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [
+    "Kapalı Garaj",
+    "Yerden Isıtmalı",
+    "Panjurlu"
+   ],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "71-evler-mah-mine-sokak/kapak-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/71-evler-mah-mine-sokak.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "71-evler-mah-mine-sokak/proje-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_6.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-mine-sokak/proje-02.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_7.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-mine-sokak/proje-03.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_8.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [
+     {
+      "dosya": "71-evler-mah-mine-sokak/plan-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/kat-planlari_3.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-mine-sokak/plan-02.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/kat-planlari_4.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "yapim": [
+     {
+      "dosya": "71-evler-mah-mine-sokak/yapim-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_13.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-mine-sokak/yapim-02.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_14.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-mine-sokak/yapim-03.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_15.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-mine-sokak/yapim-04.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_16.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-mine-sokak/yapim-05.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_17.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-mine-sokak/yapim-06.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_18.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-mine-sokak/yapim-07.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_19.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-mine-sokak/yapim-08.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_20.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-mine-sokak/yapim-09.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_21.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-mine-sokak/yapim-10.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_22.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-mine-sokak/yapim-11.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_23.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-mine-sokak/yapim-12.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_24.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-mine-sokak/yapim-13.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_25.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-mine-sokak/yapim-14.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_26.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "71-evler-mah-mine-sokak/yapim-15.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_27.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ]
+   },
+   "tur3d": false,
+   "konum": [
+    39.746665,
+    30.580807
+   ]
+  },
+  {
+   "slug": "alanonu-mah-afsar-sokak",
+   "ad": "Alanönü Mah. Afşar Sokak",
+   "durum": "biten",
+   "mahalle": "Alanönü",
+   "ilce": null,
+   "adres": "Alanönü Mah. Afşar Sokak No:10",
+   "insaat_alani": 1140,
+   "birimler": [
+    {
+     "adet": 4,
+     "tip": "4+1"
+    }
+   ],
+   "konut": 4,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "alanonu-mah-afsar-sokak/kapak-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/alanonu-mah-afsar-sokak.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "alanonu-mah-afsar-sokak/proje-01.webp",
+      "w": 340,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_129.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "alanonu-mah-afsar-sokak/proje-02.webp",
+      "w": 340,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_130.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "alanonu-mah-afsar-sokak/proje-03.webp",
+      "w": 340,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_131.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "alanonu-mah-afsar-sokak/proje-04.webp",
+      "w": 340,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_132.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "alanonu-mah-afsar-sokak/proje-05.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_133.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.764135,
+    30.529843
+   ]
+  },
+  {
+   "slug": "ali-cetinkaya-caddesi",
+   "ad": "Ali Çetinkaya Caddesi",
+   "durum": "biten",
+   "mahalle": "Yıldıztepe",
+   "ilce": "Odunpazarı",
+   "adres": "Yıldıztepe Mah. Ali Çetinkaya Cad. No:15 Odunpazarı/Eskişehir",
+   "insaat_alani": 2284,
+   "birimler": [
+    {
+     "adet": 12,
+     "tip": "2+1"
+    }
+   ],
+   "konut": 12,
+   "isyeri": 1,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "ali-cetinkaya-caddesi/kapak-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/ali-cetinkaya-caddesi.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "ali-cetinkaya-caddesi/proje-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_121.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ali-cetinkaya-caddesi/proje-02.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_122.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ali-cetinkaya-caddesi/proje-03.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_123.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.759359,
+    30.512695
+   ]
+  },
+  {
+   "slug": "ari-konutlari-asagi-sogutonu",
+   "ad": "Arı Konutları Aşağı Söğütönü",
+   "durum": "biten",
+   "mahalle": "Aşağı Söğütönü",
+   "ilce": "Tepebaşı",
+   "adres": "Aşağı Söğütönü Mah. 1601 Sk. No:1 Tepebaşı/Eskişehir",
+   "insaat_alani": null,
+   "birimler": [
+    {
+     "adet": 24,
+     "tip": "3+1",
+     "m2": 172,
+     "not": "172  m² Bağımsız Garaj Dahil 229  m²"
+    }
+   ],
+   "konut": 24,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [
+    "Çift Balkonlu",
+    "Ebeveyn Banyolu, Giyinme Odalı",
+    "İki Araçlık Kapalı Garaj",
+    "Birinci Sınıf Isı ve Ses Yalıtımı",
+    "Güvenlikli, Havuzlu, %80 Yeşil Alan"
+   ],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/kapak-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/ari-konutlari-asagi-sogutonu.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/proje-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_150.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/proje-02.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_151.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/proje-03.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_152.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/proje-04.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_153.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/proje-05.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_154.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/plan-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/kat-planlari_13.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/plan-02.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/kat-planlari_14.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/plan-03.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/kat-planlari_15.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "yapim": [
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/yapim-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_64.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/yapim-02.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_65.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/yapim-03.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_66.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/yapim-04.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_67.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/yapim-05.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_68.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/yapim-06.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_69.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/yapim-07.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_70.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/yapim-08.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_71.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/yapim-09.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_72.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/yapim-10.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_73.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/yapim-11.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_74.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/yapim-12.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_75.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/yapim-13.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_76.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/yapim-14.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_77.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/yapim-15.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_78.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/yapim-16.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_79.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ari-konutlari-asagi-sogutonu/yapim-17.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_80.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ]
+   },
+   "tur3d": false,
+   "konum": [
+    39.809119,
+    30.435753
+   ]
+  },
+  {
+   "slug": "ataturk-bulvari",
+   "ad": "Atatürk Bulvarı",
+   "durum": "biten",
+   "mahalle": null,
+   "ilce": "Odunpazarı",
+   "adres": "Atatürk Bulvarı No: 221 Odunpazarı / Eskişehir",
+   "insaat_alani": 890,
+   "birimler": [
+    {
+     "adet": 4,
+     "tip": "3+1"
+    }
+   ],
+   "konut": 4,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "ataturk-bulvari/kapak-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/ataturk-bulvari.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "ataturk-bulvari/proje-01.webp",
+      "w": 510,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_113.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "ataturk-bulvari/proje-02.webp",
+      "w": 514,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_114.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "ataturk-bulvari/proje-03.webp",
+      "w": 514,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_115.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "ataturk-bulvari/proje-04.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_116.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ataturk-bulvari/proje-05.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_117.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ataturk-bulvari/proje-06.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_118.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ataturk-bulvari/proje-07.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_119.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "ataturk-bulvari/proje-08.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_120.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.764855,
+    30.507458
+   ]
+  },
+  {
+   "slug": "bahcelievler-mah-ayaztepe-sokak",
+   "ad": "Bahçelievler Mah. Ayaztepe Sokak",
+   "durum": "biten",
+   "mahalle": "Bahçelievler",
+   "ilce": "Tepebaşı",
+   "adres": "Bahçelievler Mah. Ayaztepe Sk. No:1 Tepebaşı / Eskişehir",
+   "insaat_alani": 1079,
+   "birimler": [
+    {
+     "adet": 12,
+     "tip": "1+1"
+    }
+   ],
+   "konut": 12,
+   "isyeri": 1,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "bahcelievler-mah-ayaztepe-sokak/kapak-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/bahcelievler-mah-ayaztepe-sokak.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "bahcelievler-mah-ayaztepe-sokak/proje-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_107.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "bahcelievler-mah-ayaztepe-sokak/proje-02.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_108.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "bahcelievler-mah-ayaztepe-sokak/proje-03.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_109.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "bahcelievler-mah-ayaztepe-sokak/proje-04.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_110.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.787684,
+    30.514633
+   ]
+  },
+  {
+   "slug": "bahcelievler-mah-billur-sokak",
+   "ad": "Bahçelievler Mah. Billur Sokak",
+   "durum": "biten",
+   "mahalle": "Bahçelievler",
+   "ilce": null,
+   "adres": "Bahçelievler Mah. Billur Sk. No:68",
+   "insaat_alani": 929,
+   "birimler": [
+    {
+     "adet": 16,
+     "tip": "1+1"
+    }
+   ],
+   "konut": 16,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "bahcelievler-mah-billur-sokak/kapak-01.webp",
+      "w": 681,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/bahcelievler-mah-billur-sokak.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "bahcelievler-mah-billur-sokak/proje-01.webp",
+      "w": 630,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_57.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "bahcelievler-mah-billur-sokak/proje-02.webp",
+      "w": 680,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_58.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "bahcelievler-mah-billur-sokak/proje-03.webp",
+      "w": 681,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_59.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.787684,
+    30.514633
+   ]
+  },
+  {
+   "slug": "bahcelievler-mah-civan-sk",
+   "ad": "Bahçelievler Mah. Civan Sk.",
+   "durum": "biten",
+   "mahalle": "Bahçelievler",
+   "ilce": null,
+   "adres": "Bahçelievler Mah. Civan Sk. No:50",
+   "insaat_alani": 742,
+   "birimler": [
+    {
+     "adet": 8,
+     "tip": "2+1"
+    }
+   ],
+   "konut": 8,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "bahcelievler-mah-civan-sk/kapak-01.webp",
+      "w": 446,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/bahcelievler-mah-civan-sk.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "bahcelievler-mah-civan-sk/proje-01.webp",
+      "w": 446,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_94.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "bahcelievler-mah-civan-sk/proje-02.webp",
+      "w": 446,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_95.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "bahcelievler-mah-civan-sk/proje-03.webp",
+      "w": 446,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_96.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.787684,
+    30.514633
+   ]
+  },
+  {
+   "slug": "bahcelievler-mah-namik-kemal-sk",
+   "ad": "Bahçelievler Mah. Namık Kemal Sk.",
+   "durum": "biten",
+   "mahalle": "Bahçelievler",
+   "ilce": "Tepebaşı",
+   "adres": "Bahçelievler Mah. Namık Kemal Sk. No:3 Tepebaşı / Eskişehir",
+   "insaat_alani": 949,
+   "birimler": [
+    {
+     "adet": 16,
+     "tip": "1+1"
+    }
+   ],
+   "konut": 16,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "bahcelievler-mah-namik-kemal-sk/kapak-01.webp",
+      "w": 446,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/bahcelievler-mah-namik-kemal-sk.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "bahcelievler-mah-namik-kemal-sk/proje-01.webp",
+      "w": 446,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_37.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "bahcelievler-mah-namik-kemal-sk/proje-02.webp",
+      "w": 446,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_38.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "bahcelievler-mah-namik-kemal-sk/proje-03.webp",
+      "w": 446,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_39.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.787684,
+    30.514633
+   ]
+  },
+  {
+   "slug": "bahcelievler-mah-orhan-oguz-cad",
+   "ad": "Bahçelievler Mah. Orhan Oğuz Cad.",
+   "durum": "biten",
+   "mahalle": "Bahçelievler",
+   "ilce": "Tepebaşı",
+   "adres": "Bahçelievler Mh. Orhan Oğuz Cad. No:43 Tepebaşı / Eskişehir",
+   "insaat_alani": 959,
+   "birimler": [
+    {
+     "adet": 4,
+     "tip": "3+1"
+    }
+   ],
+   "konut": 4,
+   "isyeri": 1,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "bahcelievler-mah-orhan-oguz-cad/kapak-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/bahcelievler-mah-orhan-oguz-cad.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "bahcelievler-mah-orhan-oguz-cad/proje-01.webp",
+      "w": 340,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_111.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "bahcelievler-mah-orhan-oguz-cad/proje-02.webp",
+      "w": 1600,
+      "h": 1200,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_112.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.787684,
+    30.514633
+   ]
+  },
+  {
+   "slug": "bahcelievler-mah-orhan-oguz-caddesi",
+   "ad": "Bahçelievler Mah. Orhan Oğuz Caddesi",
+   "durum": "biten",
+   "mahalle": "Bahçelievler",
+   "ilce": null,
+   "adres": null,
+   "insaat_alani": 887,
+   "birimler": [
+    {
+     "adet": 4,
+     "tip": "3+1"
+    }
+   ],
+   "konut": 4,
+   "isyeri": 1,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "bahcelievler-mah-orhan-oguz-caddesi/kapak-01.webp",
+      "w": 680,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/bahcelievler-mah-orhan-oguz-caddesi.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "bahcelievler-mah-orhan-oguz-caddesi/proje-01.webp",
+      "w": 562,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_35.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "bahcelievler-mah-orhan-oguz-caddesi/proje-02.webp",
+      "w": 680,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_36.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.787684,
+    30.514633
+   ]
+  },
+  {
+   "slug": "bahcelievler-mah-plevne-sokak",
+   "ad": "Bahçelievler Mah. Plevne Sokak",
+   "durum": "biten",
+   "mahalle": "Bahçelievler",
+   "ilce": null,
+   "adres": "Bahçelievler Mh. Plevne Sk. No:92",
+   "insaat_alani": 1637,
+   "birimler": [
+    {
+     "adet": 16,
+     "tip": "1+1"
+    }
+   ],
+   "konut": 16,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "bahcelievler-mah-plevne-sokak/kapak-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/bahcelievler-mah-plevne-sokak.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "bahcelievler-mah-plevne-sokak/proje-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_30.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "bahcelievler-mah-plevne-sokak/proje-02.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_31.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "bahcelievler-mah-plevne-sokak/proje-03.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_32.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.787684,
+    30.514633
+   ]
+  },
+  {
+   "slug": "bahcelievler-mimar-sinan-sok-22",
+   "ad": "Bahçelievler Mimar Sinan Sok. 22",
+   "durum": "biten",
+   "mahalle": "Bahçelievler",
+   "ilce": null,
+   "adres": "Bahçelievler Mah. Mimar Sinan Sk. No: 22",
+   "insaat_alani": 822,
+   "birimler": [
+    {
+     "adet": 8,
+     "tip": "2+1"
+    }
+   ],
+   "konut": 8,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "bahcelievler-mimar-sinan-sok-22/kapak-01.webp",
+      "w": 568,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/bahcelievler-mimar-sinan-sok-22.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "bahcelievler-mimar-sinan-sok-22/proje-01.webp",
+      "w": 568,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_45.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "bahcelievler-mimar-sinan-sok-22/proje-02.webp",
+      "w": 568,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_46.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "plan": [],
+    "yapim": [
+     {
+      "dosya": "bahcelievler-mimar-sinan-sok-22/yapim-01.webp",
+      "w": 1600,
+      "h": 1200,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_41.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "bahcelievler-mimar-sinan-sok-22/yapim-02.webp",
+      "w": 1600,
+      "h": 1200,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_42.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "bahcelievler-mimar-sinan-sok-22/yapim-03.webp",
+      "w": 1600,
+      "h": 1200,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_63.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ]
+   },
+   "tur3d": false,
+   "konum": [
+    39.787684,
+    30.514633
+   ]
+  },
+  {
+   "slug": "bahcelievler-mimar-sinan-sok-24",
+   "ad": "Bahçelievler Mimar Sinan Sok. 24",
+   "durum": "biten",
+   "mahalle": "Bahçelievler",
+   "ilce": null,
+   "adres": "Bahçelievler Mah. Mimar Sinan Sk. No:24",
+   "insaat_alani": 822,
+   "birimler": [
+    {
+     "adet": 8,
+     "tip": "2+1"
+    }
+   ],
+   "konut": 8,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "bahcelievler-mimar-sinan-sok-24/kapak-01.webp",
+      "w": 446,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/bahcelievler-mimar-sinan-sok-24.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "bahcelievler-mimar-sinan-sok-24/proje-01.webp",
+      "w": 446,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_47.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "bahcelievler-mimar-sinan-sok-24/proje-02.webp",
+      "w": 446,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_48.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "bahcelievler-mimar-sinan-sok-24/proje-03.webp",
+      "w": 446,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_49.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.787684,
+    30.514633
+   ]
+  },
+  {
+   "slug": "bahcelievler-mimar-sinan-sok-28",
+   "ad": "Bahçelievler Mimar Sinan Sok. 28",
+   "durum": "biten",
+   "mahalle": "Bahçelievler",
+   "ilce": null,
+   "adres": "Bahçelievler Mah. Mimar Sinan Sk. No:28",
+   "insaat_alani": 1583,
+   "birimler": [
+    {
+     "adet": 16,
+     "tip": "2+1"
+    }
+   ],
+   "konut": 16,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "bahcelievler-mimar-sinan-sok-28/kapak-01.webp",
+      "w": 544,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/bahcelievler-mimar-sinan-sok-28.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "bahcelievler-mimar-sinan-sok-28/proje-01.webp",
+      "w": 644,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_40.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "bahcelievler-mimar-sinan-sok-28/proje-02.webp",
+      "w": 532,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_41.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "bahcelievler-mimar-sinan-sok-28/proje-03.webp",
+      "w": 660,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_42.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "bahcelievler-mimar-sinan-sok-28/proje-04.webp",
+      "w": 665,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_43.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "bahcelievler-mimar-sinan-sok-28/proje-05.webp",
+      "w": 544,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_44.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.787684,
+    30.514633
+   ]
+  },
+  {
+   "slug": "balkan-caddesi-2",
+   "ad": "Balkan Caddesi 2",
+   "durum": "biten",
+   "mahalle": "Bahçelievler",
+   "ilce": "Tepebaşı",
+   "adres": "Bahçelievler Mah. Ayaztepe Sk. No:2 Tepebaşı / Eskişehir",
+   "insaat_alani": null,
+   "birimler": [],
+   "konut": 0,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "balkan-caddesi-2/kapak-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/balkan-caddesi-2.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "balkan-caddesi-2/proje-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_105.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "balkan-caddesi-2/proje-02.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_106.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.787684,
+    30.514633
+   ]
+  },
+  {
+   "slug": "borsa-caddesi",
+   "ad": "Borsa Caddesi",
+   "durum": "biten",
+   "mahalle": "Gündoğdu",
+   "ilce": "Odunpazarı",
+   "adres": "Gündoğdu Mah. Borsa Caddesi No:15 Odunpazarı / Eskişehir",
+   "insaat_alani": 2110,
+   "birimler": [
+    {
+     "adet": 16,
+     "tip": "2+1"
+    }
+   ],
+   "konut": 16,
+   "isyeri": 2,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "borsa-caddesi/kapak-01.webp",
+      "w": 446,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/borsa-caddesi.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "borsa-caddesi/proje-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_99.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "borsa-caddesi/proje-02.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_100.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "borsa-caddesi/proje-03.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_101.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "borsa-caddesi/proje-04.webp",
+      "w": 446,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_102.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "borsa-caddesi/proje-05.webp",
+      "w": 446,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_103.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "borsa-caddesi/proje-06.webp",
+      "w": 446,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_104.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.765501,
+    30.569608
+   ]
+  },
+  {
+   "slug": "buyukdere-mah-mehmet-osman-sk",
+   "ad": "Büyükdere Mah. Mehmet Osman Sk.",
+   "durum": "biten",
+   "mahalle": "Büyükdere",
+   "ilce": null,
+   "adres": null,
+   "insaat_alani": 5889,
+   "birimler": [
+    {
+     "adet": 6,
+     "tip": "3+1"
+    },
+    {
+     "adet": 21,
+     "tip": "2+1"
+    },
+    {
+     "adet": 12,
+     "tip": "1+1"
+    }
+   ],
+   "konut": 39,
+   "isyeri": 1,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "buyukdere-mah-mehmet-osman-sk/kapak-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/buyukdere-mah-mehmet-osman-sk.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "buyukdere-mah-mehmet-osman-sk/proje-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_50.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "buyukdere-mah-mehmet-osman-sk/proje-02.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_51.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "buyukdere-mah-mehmet-osman-sk/proje-03.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_52.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "buyukdere-mah-mehmet-osman-sk/proje-04.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_53.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "buyukdere-mah-mehmet-osman-sk/proje-05.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_54.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.756115,
+    30.501137
+   ]
+  },
+  {
+   "slug": "camlica-mah-sirinevler-sokak",
+   "ad": "Çamlıca Mah. Şirinevler Sokak",
+   "durum": "biten",
+   "mahalle": "Çamlıca",
+   "ilce": "Tepebaşı",
+   "adres": "Çamlıca Mah. Şirinevler Sk. No:82 Tepebaşı / Eskişehir",
+   "insaat_alani": 429,
+   "birimler": [
+    {
+     "adet": 3,
+     "tip": "2+1"
+    }
+   ],
+   "konut": 3,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "camlica-mah-sirinevler-sokak/kapak-01.webp",
+      "w": 446,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/camlica-mah-sirinevler-sokak.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "camlica-mah-sirinevler-sokak/proje-01.webp",
+      "w": 446,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_92.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "camlica-mah-sirinevler-sokak/proje-02.webp",
+      "w": 446,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_93.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.778272,
+    30.461855
+   ]
+  },
+  {
+   "slug": "emek-mah-cetinsoy-sokak",
+   "ad": "Emek Mah. Çetinsoy Sokak",
+   "durum": "biten",
+   "mahalle": "Emek",
+   "ilce": null,
+   "adres": "Emek Mah. Çetinsoy Sk. No:13",
+   "insaat_alani": null,
+   "birimler": [
+    {
+     "adet": 16,
+     "tip": "3+1"
+    }
+   ],
+   "konut": 16,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "emek-mah-cetinsoy-sokak/kapak-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/emek-mah-cetinsoy-sokak.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "emek-mah-cetinsoy-sokak/proje-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_85.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "emek-mah-cetinsoy-sokak/proje-02.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_86.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "emek-mah-cetinsoy-sokak/proje-03.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_87.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "emek-mah-cetinsoy-sokak/proje-04.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_88.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "emek-mah-cetinsoy-sokak/proje-05.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_89.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "emek-mah-cetinsoy-sokak/proje-06.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_90.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "emek-mah-cetinsoy-sokak/proje-07.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_91.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.754543,
+    30.562214
+   ]
+  },
+  {
+   "slug": "emek-mah-kasimpatili-sk",
+   "ad": "Emek Mah. Kasımpatılı Sk.",
+   "durum": "biten",
+   "mahalle": "Emek",
+   "ilce": null,
+   "adres": "Emek Mah. Kasımpatılı Sokak",
+   "insaat_alani": 2805,
+   "birimler": [
+    {
+     "adet": 16,
+     "tip": "3+1"
+    }
+   ],
+   "konut": 16,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "emek-mah-kasimpatili-sk/kapak-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/emek-mah-kasimpatili-sk.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "emek-mah-kasimpatili-sk/proje-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_78.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "emek-mah-kasimpatili-sk/proje-02.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_79.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.754543,
+    30.562214
+   ]
+  },
+  {
+   "slug": "emek-mah-kizilirmak-sk",
+   "ad": "Emek Mah. Kızılırmak Sk.",
+   "durum": "biten",
+   "mahalle": "Emek",
+   "ilce": null,
+   "adres": "Emek Mah. Kızılırmak Sokak",
+   "insaat_alani": 4689,
+   "birimler": [
+    {
+     "adet": 40,
+     "tip": "3+1"
+    }
+   ],
+   "konut": 40,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "emek-mah-kizilirmak-sk/kapak-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/emek-mah-kizilirmak-sk.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "emek-mah-kizilirmak-sk/proje-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_71.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "emek-mah-kizilirmak-sk/proje-02.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_72.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "emek-mah-kizilirmak-sk/proje-03.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_73.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "emek-mah-kizilirmak-sk/proje-04.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_74.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "emek-mah-kizilirmak-sk/proje-05.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_75.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "emek-mah-kizilirmak-sk/proje-06.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_76.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "emek-mah-kizilirmak-sk/proje-07.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_77.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.754543,
+    30.562214
+   ]
+  },
+  {
+   "slug": "emek-mah-kugu-sokak",
+   "ad": "Emek Mah. Kuğu Sokak",
+   "durum": "biten",
+   "mahalle": "Emek",
+   "ilce": null,
+   "adres": "Emek Mah. Kuğu Sk. No:34",
+   "insaat_alani": 798,
+   "birimler": [
+    {
+     "adet": 4,
+     "tip": "3+1"
+    }
+   ],
+   "konut": 4,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "emek-mah-kugu-sokak/kapak-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/emek-mah-kugu-sokak.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "emek-mah-kugu-sokak/proje-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_66.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "emek-mah-kugu-sokak/proje-02.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_67.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.754543,
+    30.562214
+   ]
+  },
+  {
+   "slug": "emek-mah-sehit-munir-yildizak-sk",
+   "ad": "Emek Mah. Şehit Münir Yıldızak Sk.",
+   "durum": "biten",
+   "mahalle": "Emek",
+   "ilce": null,
+   "adres": "Emek Mah. Şehit Münir Yıldızak Sokak",
+   "insaat_alani": 6320,
+   "birimler": [
+    {
+     "adet": 40,
+     "tip": "3+1"
+    }
+   ],
+   "konut": 40,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "emek-mah-sehit-munir-yildizak-sk/kapak-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/emek-mah-sehit-munir-yildizak-sk.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "emek-mah-sehit-munir-yildizak-sk/proje-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_68.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "emek-mah-sehit-munir-yildizak-sk/proje-02.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_69.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "emek-mah-sehit-munir-yildizak-sk/proje-03.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_70.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.754543,
+    30.562214
+   ]
+  },
+  {
+   "slug": "fatih-mah-aktug-sokak",
+   "ad": "Fatih Mah. Aktuğ Sokak",
+   "durum": "biten",
+   "mahalle": "Fatih",
+   "ilce": "Tepebaşı",
+   "adres": "Fatih Mah. Aktuğ Sk. No:11 Tepebaşı / Eskişehir",
+   "insaat_alani": 1995,
+   "birimler": [
+    {
+     "adet": 15,
+     "tip": "3+1"
+    }
+   ],
+   "konut": 15,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "fatih-mah-aktug-sokak/kapak-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/fatih-mah-aktug-sokak.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "fatih-mah-aktug-sokak/proje-01.webp",
+      "w": 592,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_64.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "fatih-mah-aktug-sokak/proje-02.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_65.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.790425,
+    30.520596
+   ]
+  },
+  {
+   "slug": "gokmeydan-sahin-apt",
+   "ad": "Gökmeydan Şahin Apt.",
+   "durum": "biten",
+   "mahalle": "Kurtuluş",
+   "ilce": "Odunpazarı",
+   "adres": "Kurtuluş Mh. Öğretmen Sk. No: 10 Odunpazarı / Eskişehir",
+   "insaat_alani": null,
+   "birimler": [],
+   "konut": 0,
+   "isyeri": 0,
+   "blok": null,
+   "yil": 1999,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "gokmeydan-sahin-apt/kapak-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/gokmeydan-sahin-apt.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "gokmeydan-sahin-apt/proje-01.webp",
+      "w": 450,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_60.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "gokmeydan-sahin-apt/proje-02.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_61.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "gokmeydan-sahin-apt/proje-03.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_62.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "gokmeydan-sahin-apt/proje-04.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_63.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.766938,
+    30.53084
+   ]
+  },
+  {
+   "slug": "gundogdu-mah-tuzcuoglu-sk",
+   "ad": "Gündoğdu Mah. Tuzcuoğlu Sk.",
+   "durum": "biten",
+   "mahalle": "Gündoğdu",
+   "ilce": "Odunpazarı",
+   "adres": "Gündoğdu Mah. Tuzcuoğlu Sk. No:7 Odunpazarı / Eskişehir",
+   "insaat_alani": 1336,
+   "birimler": [
+    {
+     "adet": 8,
+     "tip": "3+1"
+    }
+   ],
+   "konut": 8,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "gundogdu-mah-tuzcuoglu-sk/kapak-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/gundogdu-mah-tuzcuoglu-sk.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "gundogdu-mah-tuzcuoglu-sk/proje-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_97.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "gundogdu-mah-tuzcuoglu-sk/proje-02.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_98.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.765501,
+    30.569608
+   ]
+  },
+  {
+   "slug": "hatboyu-arka",
+   "ad": "Hatboyu Arka",
+   "durum": "biten",
+   "mahalle": "Şarhöyük",
+   "ilce": null,
+   "adres": "Şarhöyük Mah. Şeker Sokak No:40",
+   "insaat_alani": null,
+   "birimler": [
+    {
+     "adet": 8,
+     "tip": "1+1"
+    }
+   ],
+   "konut": 8,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "hatboyu-arka/kapak-01.webp",
+      "w": 340,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/hatboyu-arka.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "hatboyu-arka/proje-01.webp",
+      "w": 340,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_139.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "hatboyu-arka/proje-02.webp",
+      "w": 340,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_140.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.799527,
+    30.536013
+   ]
+  },
+  {
+   "slug": "hatboyu-on",
+   "ad": "Hatboyu Ön",
+   "durum": "biten",
+   "mahalle": "Şarhöyük",
+   "ilce": "Tepebaşı",
+   "adres": "Şarhöyük Mah. Hatboyu 2 Cd. No:27 Tepebaşı/Eskişehir",
+   "insaat_alani": null,
+   "birimler": [
+    {
+     "adet": 6,
+     "tip": "2+1"
+    }
+   ],
+   "konut": 6,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "hatboyu-on/kapak-01.webp",
+      "w": 344,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/hatboyu-on.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "hatboyu-on/proje-01.webp",
+      "w": 344,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_141.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "hatboyu-on/proje-02.webp",
+      "w": 344,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_142.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "hatboyu-on/proje-03.webp",
+      "w": 344,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_143.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.799527,
+    30.536013
+   ]
+  },
+  {
+   "slug": "kumlubel-mah-akar-sokak",
+   "ad": "Kumlubel Mah. Akar Sokak",
+   "durum": "biten",
+   "mahalle": "Kumlubel",
+   "ilce": "Tepebaşı",
+   "adres": "Kumlubel Mah. Akar Sk. No:79 Tepebaşı / Eskişehir",
+   "insaat_alani": 1372,
+   "birimler": [
+    {
+     "adet": 8,
+     "tip": "3+1"
+    }
+   ],
+   "konut": 8,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "kumlubel-mah-akar-sokak/kapak-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/kumlubel-mah-akar-sokak.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "kumlubel-mah-akar-sokak/proje-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_55.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "kumlubel-mah-akar-sokak/proje-02.webp",
+      "w": 692,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_56.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.79503,
+    30.522939
+   ]
+  },
+  {
+   "slug": "kumlubel-mah-edipler-sokak",
+   "ad": "Kumlubel Mah. Edipler Sokak",
+   "durum": "biten",
+   "mahalle": "Kumlubel",
+   "ilce": null,
+   "adres": "Kumlubel Mah. Edipler Sk. No:4",
+   "insaat_alani": 3504,
+   "birimler": [
+    {
+     "adet": 16,
+     "tip": "3+1"
+    },
+    {
+     "adet": 16,
+     "tip": "2+1"
+    }
+   ],
+   "konut": 32,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "kumlubel-mah-edipler-sokak/kapak-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/kumlubel-mah-edipler-sokak.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "kumlubel-mah-edipler-sokak/proje-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_80.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "kumlubel-mah-edipler-sokak/proje-02.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_81.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "kumlubel-mah-edipler-sokak/proje-03.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_82.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "kumlubel-mah-edipler-sokak/proje-04.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_83.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "kumlubel-mah-edipler-sokak/proje-05.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_84.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.79503,
+    30.522939
+   ]
+  },
+  {
+   "slug": "luna-evleri",
+   "ad": "Luna Evleri",
+   "durum": "biten",
+   "mahalle": "Emek",
+   "ilce": "Odunpazarı",
+   "adres": "Emek Mahallesi, Ertaş Cd. No:238  Odunpazarı/Eskişehir",
+   "insaat_alani": null,
+   "birimler": [
+    {
+     "adet": 32,
+     "tip": "3+1"
+    },
+    {
+     "adet": 16,
+     "tip": "2+1"
+    }
+   ],
+   "konut": 48,
+   "isyeri": 8,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "luna-evleri/kapak-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/luna-evleri.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "luna-evleri/proje-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_9.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/proje-02.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_10.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/proje-03.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_11.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/proje-04.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_12.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/proje-05.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_13.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/proje-06.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_14.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/proje-07.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_15.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/proje-08.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_16.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [
+     {
+      "dosya": "luna-evleri/plan-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/kat-planlari_5.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/plan-02.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/kat-planlari_6.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/plan-03.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/kat-planlari_7.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/plan-04.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/kat-planlari_8.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "yapim": [
+     {
+      "dosya": "luna-evleri/yapim-01.webp",
+      "w": 820,
+      "h": 615,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_43.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/yapim-02.webp",
+      "w": 820,
+      "h": 615,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_44.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/yapim-03.webp",
+      "w": 820,
+      "h": 615,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_45.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/yapim-04.webp",
+      "w": 820,
+      "h": 615,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_46.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/yapim-05.webp",
+      "w": 820,
+      "h": 615,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_47.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/yapim-06.webp",
+      "w": 820,
+      "h": 615,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_48.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/yapim-07.webp",
+      "w": 820,
+      "h": 615,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_49.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/yapim-08.webp",
+      "w": 820,
+      "h": 615,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_50.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/yapim-09.webp",
+      "w": 820,
+      "h": 615,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_51.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/yapim-10.webp",
+      "w": 820,
+      "h": 615,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_52.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/yapim-11.webp",
+      "w": 820,
+      "h": 615,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_53.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/yapim-12.webp",
+      "w": 820,
+      "h": 615,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_54.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/yapim-13.webp",
+      "w": 641,
+      "h": 615,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_55.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "luna-evleri/yapim-14.webp",
+      "w": 820,
+      "h": 615,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_56.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/yapim-15.webp",
+      "w": 820,
+      "h": 615,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_57.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/yapim-16.webp",
+      "w": 820,
+      "h": 615,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_58.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/yapim-17.webp",
+      "w": 820,
+      "h": 615,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_59.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/yapim-18.webp",
+      "w": 820,
+      "h": 615,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_60.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/yapim-19.webp",
+      "w": 820,
+      "h": 615,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_61.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "luna-evleri/yapim-20.webp",
+      "w": 820,
+      "h": 615,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_62.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ]
+   },
+   "tur3d": false,
+   "konum": [
+    39.754543,
+    30.562214
+   ]
+  },
+  {
+   "slug": "odunpazari-keskiner-sokak",
+   "ad": "Odunpazarı Keskiner Sokak",
+   "durum": "biten",
+   "mahalle": "Odunpazarı",
+   "ilce": "Odunpazarı",
+   "adres": "Keskiner Sokak No:1 Odunpazarı/Eskişehir",
+   "insaat_alani": 2106,
+   "birimler": [
+    {
+     "adet": 11,
+     "tip": "3+1"
+    }
+   ],
+   "konut": 11,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "odunpazari-keskiner-sokak/kapak-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/odunpazari-keskiner-sokak.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "odunpazari-keskiner-sokak/proje-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_136.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "odunpazari-keskiner-sokak/proje-02.webp",
+      "w": 631,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_137.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "odunpazari-keskiner-sokak/proje-03.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_138.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.758928,
+    30.526916
+   ]
+  },
+  {
+   "slug": "sazova-villa-projesi",
+   "ad": "Sazova Villa Projesi",
+   "durum": "biten",
+   "mahalle": "Sazova",
+   "ilce": null,
+   "adres": "Sazova Mah. Çiçeklitepe Sokak",
+   "insaat_alani": null,
+   "birimler": [
+    {
+     "adet": 8,
+     "tip": "villa"
+    }
+   ],
+   "konut": 8,
+   "isyeri": 0,
+   "blok": 4,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "sazova-villa-projesi/kapak-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/sazova-villa-projesi.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "sazova-villa-projesi/proje-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_21.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "sazova-villa-projesi/proje-02.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_22.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "sazova-villa-projesi/proje-03.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_23.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "sazova-villa-projesi/proje-04.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_24.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [
+     {
+      "dosya": "sazova-villa-projesi/plan-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/kat-planlari_9.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "sazova-villa-projesi/plan-02.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/kat-planlari_10.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "sazova-villa-projesi/plan-03.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/kat-planlari_11.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "sazova-villa-projesi/plan-04.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/kat-planlari_12.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "yapim": [
+     {
+      "dosya": "sazova-villa-projesi/yapim-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_28.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "sazova-villa-projesi/yapim-02.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_29.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "sazova-villa-projesi/yapim-03.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_30.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "sazova-villa-projesi/yapim-04.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_31.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "sazova-villa-projesi/yapim-05.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_32.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "sazova-villa-projesi/yapim-06.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_33.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "sazova-villa-projesi/yapim-07.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_34.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "sazova-villa-projesi/yapim-08.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_35.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "sazova-villa-projesi/yapim-09.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_36.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "sazova-villa-projesi/yapim-10.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_37.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "sazova-villa-projesi/yapim-11.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_38.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "sazova-villa-projesi/yapim-12.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_39.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "sazova-villa-projesi/yapim-13.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yapim-asamalari_40.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ]
+   },
+   "tur3d": false,
+   "konum": [
+    39.76653,
+    30.467789
+   ]
+  },
+  {
+   "slug": "yenibaglar-mah-kaynar-sk",
+   "ad": "Yenibağlar Mah. Kaynar Sk.",
+   "durum": "biten",
+   "mahalle": "Yenibağlar",
+   "ilce": null,
+   "adres": "Yenibağlar Mah. Kaynar Sk. No:3",
+   "insaat_alani": 634,
+   "birimler": [
+    {
+     "adet": 12,
+     "tip": "1+1"
+    }
+   ],
+   "konut": 12,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "yenibaglar-mah-kaynar-sk/kapak-01.webp",
+      "w": 568,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yenibaglar-mah-kaynar-sk.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "yenibaglar-mah-kaynar-sk/proje-01.webp",
+      "w": 568,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_17.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "yenibaglar-mah-kaynar-sk/proje-02.webp",
+      "w": 568,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_18.jpg",
+      "temiz": true,
+      "kirpildi": true
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.786899,
+    30.50857
+   ]
+  },
+  {
+   "slug": "yildiztepe-mah-ali-cetinkaya-cad",
+   "ad": "Yıldıztepe Mah. Ali Çetinkaya Cad.",
+   "durum": "biten",
+   "mahalle": "Yıldıztepe",
+   "ilce": null,
+   "adres": "Yıldıztepe Mah. Ali Çetinkaya Caddesi No:15",
+   "insaat_alani": 2490,
+   "birimler": [
+    {
+     "adet": 12,
+     "tip": "3+1"
+    }
+   ],
+   "konut": 12,
+   "isyeri": 1,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "yildiztepe-mah-ali-cetinkaya-cad/kapak-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/yildiztepe-mah-ali-cetinkaya-cad.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "yildiztepe-mah-ali-cetinkaya-cad/proje-01.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_127.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "yildiztepe-mah-ali-cetinkaya-cad/proje-02.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_128.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "yildiztepe-mah-ali-cetinkaya-cad/proje-03.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_124.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "yildiztepe-mah-ali-cetinkaya-cad/proje-04.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_125.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "yildiztepe-mah-ali-cetinkaya-cad/proje-05.webp",
+      "w": 850,
+      "h": 458,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_126.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.759359,
+    30.512695
+   ]
+  },
+  {
+   "slug": "zafer-mah-ozefe-sokak",
+   "ad": "Zafer Mah. Özefe Sokak",
+   "durum": "biten",
+   "mahalle": "Zafer",
+   "ilce": null,
+   "adres": "Zafer Mah. Özefe Sk. No:8",
+   "insaat_alani": 2240,
+   "birimler": [
+    {
+     "adet": 16,
+     "tip": "3+1"
+    }
+   ],
+   "konut": 16,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "zafer-mah-ozefe-sokak/kapak-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/zafer-mah-ozefe-sokak.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "zafer-mah-ozefe-sokak/proje-01.webp",
+      "w": 706,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_33.jpg",
+      "temiz": true,
+      "kirpildi": true
+     },
+     {
+      "dosya": "zafer-mah-ozefe-sokak/proje-02.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_34.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.78892,
+    30.526734
+   ]
+  },
+  {
+   "slug": "zafer-mah-seher-sokak",
+   "ad": "Zafer Mah. Sefer Sokak",
+   "durum": "biten",
+   "mahalle": "Zafer",
+   "ilce": null,
+   "adres": null,
+   "insaat_alani": 5844,
+   "birimler": [
+    {
+     "adet": 40,
+     "tip": "3+1"
+    }
+   ],
+   "konut": 40,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "zafer-mah-seher-sokak/kapak-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/zafer-mah-seher-sokak.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "zafer-mah-seher-sokak/proje-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_25.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "zafer-mah-seher-sokak/proje-02.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_26.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "zafer-mah-seher-sokak/proje-03.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_27.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "zafer-mah-seher-sokak/proje-04.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_28.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "zafer-mah-seher-sokak/proje-05.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_29.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.78892,
+    30.526734
+   ]
+  },
+  {
+   "slug": "zafer-mah-ulker-sokak",
+   "ad": "Zafer Mah. Ülker Sokak",
+   "durum": "biten",
+   "mahalle": "Zafer",
+   "ilce": "Tepebaşı",
+   "adres": "Zafer Mah. Ülker Sk. No:33 Tepebaşı / Eskişehir",
+   "insaat_alani": 1110,
+   "birimler": [
+    {
+     "adet": 8,
+     "tip": "3+1"
+    }
+   ],
+   "konut": 8,
+   "isyeri": 0,
+   "blok": null,
+   "yil": null,
+   "ozellikler": [],
+   "gorseller": {
+    "kapak": [
+     {
+      "dosya": "zafer-mah-ulker-sokak/kapak-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/zafer-mah-ulker-sokak.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "proje": [
+     {
+      "dosya": "zafer-mah-ulker-sokak/proje-01.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_19.jpg",
+      "temiz": true,
+      "kirpildi": false
+     },
+     {
+      "dosya": "zafer-mah-ulker-sokak/proje-02.webp",
+      "w": 850,
+      "h": 600,
+      "kaynak": "https://www.saripekmez.com.tr/public/uploads/proje-gorselleri_20.jpg",
+      "temiz": true,
+      "kirpildi": false
+     }
+    ],
+    "plan": [],
+    "yapim": []
+   },
+   "tur3d": false,
+   "konum": [
+    39.78892,
+    30.526734
+   ]
+  }
+ ],
+ "mahalleler": {
+  "71 Evler": [
+   39.746665,
+   30.580807
+  ],
+  "Alanönü": [
+   39.764135,
+   30.529843
+  ],
+  "Yıldıztepe": [
+   39.759359,
+   30.512695
+  ],
+  "Aşağı Söğütönü": [
+   39.809119,
+   30.435753
+  ],
+  "Bahçelievler": [
+   39.787684,
+   30.514633
+  ],
+  "Gündoğdu": [
+   39.765501,
+   30.569608
+  ],
+  "Büyükdere": [
+   39.756115,
+   30.501137
+  ],
+  "Çamlıca": [
+   39.778272,
+   30.461855
+  ],
+  "Emek": [
+   39.754543,
+   30.562214
+  ],
+  "Fatih": [
+   39.790425,
+   30.520596
+  ],
+  "Kurtuluş": [
+   39.766938,
+   30.53084
+  ],
+  "Şarhöyük": [
+   39.799527,
+   30.536013
+  ],
+  "Kumlubel": [
+   39.79503,
+   30.522939
+  ],
+  "Odunpazarı": [
+   39.758928,
+   30.526916
+  ],
+  "Sazova": [
+   39.76653,
+   30.467789
+  ],
+  "Yenibağlar": [
+   39.786899,
+   30.50857
+  ],
+  "Zafer": [
+   39.78892,
+   30.526734
+  ]
+ }
+}

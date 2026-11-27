@@ -1,0 +1,456 @@
+{
+ "start": "2026-11-27T22:17:28.665Z",
+ "round": 3,
+ "idle": 0,
+ "errors": 0,
+ "status": "open",
+ "history": [
+  {
+   "at": "2026-11-27T22:28:28.595Z",
+   "mode": "manual",
+   "status": "fail",
+   "fails": 26,
+   "round": 1,
+   "reused": false,
+   "stopHookActive": false
+  },
+  {
+   "at": "2026-11-27T22:31:23.617Z",
+   "mode": "manual",
+   "status": "fail",
+   "fails": 8,
+   "round": 2,
+   "reused": false,
+   "stopHookActive": false
+  },
+  {
+   "at": "2026-11-27T22:34:15.618Z",
+   "mode": "manual",
+   "status": "open",
+   "fails": 2,
+   "round": 3,
+   "reused": false,
+   "stopHookActive": false
+  }
+ ],
+ "max": 3,
+ "marker": {
+  "page": "index.html",
+  "url": null,
+  "root": null,
+  "kind": "service",
+  "category": "Konut projeleri",
+  "primary": "Bizi arayın",
+  "rounds": 3,
+  "start": "2026-11-27T22:17:28.665Z",
+  "by": "gate.mjs --start"
+ },
+ "manual": true,
+ "roundKey": "6f23d2c1a2755e84:193400e9",
+ "roundFree": false,
+ "idleFree": false,
+ "blockKey": null,
+ "fp": "6f23d2c1a2755e84",
+ "page": "index.html",
+ "found": {
+  "fails": [
+   {
+    "check": "card-layout",
+    "where": "section#insaat > div.wrap > ol.grid.pv-steps \"1. Taşıyıcı sistem Betonarme karkas kat \"",
+    "msg": "4 of 4 cards drawn one way (one panel, ground, placement and fragment): copies of one card",
+    "fix": "a card layout at most twice on a page: build the other sections another way",
+    "widths": [
+     1440,
+     390
+    ],
+    "from": "consistency",
+    "ids": [
+     "card-layout"
+    ],
+    "wheres": [
+     "section#insaat > div.wrap > ol.grid.pv-steps \"1. Taşıyıcı sistem Betonarme karkas kat \""
+    ]
+   },
+   {
+    "check": "copy-headings",
+    "where": "div.span-4:nth-of-type(3) > a.tile > div.tile__head > h3 \"Emek Mahallesi Kızılırmak Sokak\"",
+    "msg": "\"Emek Mahallesi Kızılırmak Sokak\" names no product, part, place or section (6 headings like it; at most one brand line per page) (and 5 more like it: \"Atatürk Bulvarı\", \"Zafer Mahallesi Sefer So\", \"Eskişehir ve İnönü’de ik\", \"Sarıpekmez’den haberler\", ...)",
+    "fix": "name the thing in every heading: the product, a part, the place or a section noun",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "copy-headings"
+    ],
+    "wheres": [
+     "div.span-4:nth-of-type(3) > a.tile > div.tile__head > h3 \"Emek Mahallesi Kızılırmak Sokak\""
+    ]
+   },
+   {
+    "check": "phone-number",
+    "where": "div.grid > div.span-2.footer__col:nth-of-type(5) > ul > li:nth-of-type(1) \"0222 227 31 11\"",
+    "msg": "a phone number with its area code: \"0222 227 31 11\"; a visitor can dial it and reach a stranger",
+    "fix": "drop the number and its tel: link (a \"Request a call\" form may stand in), unless the brief gives the number",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "phone-number"
+    ],
+    "wheres": [
+     "div.grid > div.span-2.footer__col:nth-of-type(5) > ul > li:nth-of-type(1) \"0222 227 31 11\""
+    ]
+   },
+   {
+    "check": "phone-number",
+    "where": "header.nav.nav--split > div.wrap.nav__bar > div.nav__actions > a.btn.btn--primary \"tel:+902222273111\"",
+    "msg": "a tel: link calls a number in a real dialable format: \"tel:+902222273111\"; a visitor can dial it and reach a stranger (and 3 more like it: div.hero-text.grid > div.hero__text.span-5 > div.btn-row > a.btn.btn--primary, div.wrap > div.closing__cta.close--photo > div.section-head--split > a.btn.btn--primary, div.span-2.footer__col:nth-of-type(5) > ul > li:nth-of-type(1) > a)",
+    "fix": "drop the number and its tel: link (a \"Request a call\" form may stand in), unless the brief gives the number",
+    "widths": [
+     1440
+    ],
+    "from": "consistency",
+    "ids": [
+     "phone-number"
+    ],
+    "wheres": [
+     "header.nav.nav--split > div.wrap.nav__bar > div.nav__actions > a.btn.btn--primary \"tel:+902222273111\""
+    ]
+   },
+   {
+    "check": "section-gaps",
+    "where": "section#petrol / section#haberler",
+    "msg": "140px between these sections, -69% against the median 459px",
+    "fix": "use one gap between sections (all within 25% of each other)",
+    "widths": [
+     390
+    ],
+    "from": "consistency",
+    "ids": [
+     "section-gaps"
+    ],
+    "wheres": [
+     "section#petrol / section#haberler"
+    ]
+   },
+   {
+    "check": "hero-lines",
+    "where": "section.hero h1",
+    "msg": "the check fills the h1 to 44 characters (this hero's maxChars in heroes.json), not the page's own: it takes 4 lines at 1440, 3 at most",
+    "fix": "the check fills the h1 to this hero's maxChars, not your own: take the next type pairing the deal printed (start.mjs); when the h1 is final and fits, waive it (target: section.hero h1)",
+    "widths": [
+     1440
+    ],
+    "from": "layout",
+    "ids": [
+     "hero-lines"
+    ],
+    "wheres": [
+     "section.hero h1"
+    ]
+   }
+  ],
+  "warns": [
+   {
+    "check": "copy-buttons",
+    "where": "header.nav.nav--split > div.wrap.nav__bar > div.nav__actions > a.btn.btn--primary \"Bizi arayın\"",
+    "msg": "\"Bizi arayın\" does not start with a verb (book, buy, try, start, get, see...)",
+    "fix": "label buttons with a verb and what the visitor gets (\"Book a room\", \"Start free trial\")",
+    "widths": [
+     1440
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "section-gaps",
+    "where": "section#projeler / section#tur",
+    "msg": "521px between these sections, +33% against the median 392px of gaps at a change of ground",
+    "fix": "use one gap between sections (all within 25% of each other)",
+    "widths": [
+     1440,
+     390
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "section-gaps",
+    "where": "section#tur / section#insaat",
+    "msg": "186px between these sections, -53% against the median 392px of gaps at a change of ground",
+    "fix": "use one gap between sections (all within 25% of each other)",
+    "widths": [
+     1440
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "section-gaps",
+    "where": "section#petrol / section#haberler",
+    "msg": "186px between these sections, -30% against the median 265px",
+    "fix": "use one gap between sections (all within 25% of each other)",
+    "widths": [
+     1440
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "section-gaps",
+    "where": "section#haberler / footer#contact",
+    "msg": "uneven space at the edge of a band: 278px outside its edge, 114px inside it (the space on either side of a change of ground reads as one gap only when the two match)",
+    "fix": "use one gap between sections (all within 25% of each other)",
+    "widths": [
+     1440,
+     390
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "photo-set",
+    "where": "ol.grid.pv-steps > li.span-3.tile:nth-of-type(1) > div.tile__media.tile--portrait > img \"yapim-16.webp\"",
+    "msg": "16 photographs in more than one look: lightness from 0.28 to 0.65; saturation from 0.11 to 0.52; warm and cool photographs mixed (b* -17 to +14); the odd one out is yapim-16.webp",
+    "fix": "grade the photographs to one look (light, colour, warmth), or replace the odd one out",
+    "widths": [
+     1440,
+     390
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "label-centre",
+    "where": "header.nav.nav--split > div.wrap.nav__bar > div.nav__actions > a.btn.btn--primary \"Bizi arayın\"",
+    "msg": "its label sits 18px off-centre (25px of room at the left, 43px at the right)",
+    "fix": "centre the label in its button, or fill the empty side with an icon",
+    "widths": [
+     1440,
+     390
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "photo-repeat",
+    "where": "ol.grid.pv-steps > li.span-3.tile:nth-of-type(4) > div.tile__media.tile--portrait > img \"yapim-04.webp\"",
+    "msg": "the photograph yapim-04.webp is shown 2 times on the page: a picture the visitor has already seen",
+    "fix": "show each photograph once: a different picture of what this section names, or none",
+    "widths": [
+     1440,
+     390
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "empty-area",
+    "where": "section#projeler \"Tamamlanan projeler. 41 bina, 598 konut,\"",
+    "msg": "42% of the section is empty: 368px of empty rows between its content, 320px under its last (a.tile), in its 1620px of rows (WARN over 35%, FAIL over 50%)",
+    "fix": "fill the section: a picture or a second column beside the words, or more of its own content; the section stays one or two screens tall (T-height)",
+    "widths": [
+     1440
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "skip-link",
+    "where": "header.nav.nav--split > div.wrap.nav__bar > a.skip-link:nth-of-type(1) \"İçeriğe geç\"",
+    "msg": "the first Tab stop is \"İçeriğe geç\", not a skip link: a keyboard user tabs through the whole nav on every visit",
+    "fix": "add the starter's skip link as the header's first child: <a class=\"skip-link\" href=\"#top\">Skip to content</a>",
+    "widths": [
+     1440
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "action-repeat",
+    "where": "header.nav.nav--split > div.wrap.nav__bar > div.nav__actions > a.btn.btn--primary \"bizi arayın\"",
+    "msg": "\"bizi arayın\" shows 2 times on the first screen at 1440px (nav, hero): the nav's button and the hero's; nothing else on the screen may repeat it",
+    "fix": "show the action once a screen besides the nav's button: the hero's, the close's or the phone bar's, never all at once",
+    "widths": [
+     1440
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "section-air",
+    "where": "section#projeler / section#tur",
+    "msg": "518px of air between the content of these two sections: 128-480px (64-600px WARN) (SR-3)",
+    "fix": "keep 128-480px of air between the content of neighbouring sections (112-420px on a phone): the sections' padding (--padt, --padb)",
+    "widths": [
+     1440
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "nav",
+    "where": "header.nav.nav--split > div.wrap.nav__bar > button.nav__toggle",
+    "msg": "the nav is lopsided: its last item ends 13px inside the content's edge (366px), while its first starts on the other edge",
+    "fix": "start the nav's first item and end its last on the content's two edges",
+    "widths": [
+     390
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "cta",
+    "where": "section#insaat \"Luna Evleri nasıl yükseldi\"",
+    "msg": "a section over 1.5 screens long with no link or button in it",
+    "fix": "add the action: a button in the hero, one on every priced item, one in the closing section",
+    "widths": [
+     390
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "proximity",
+    "where": "section#insaat > div.wrap > ol.grid.pv-steps \"1. Taşıyıcı sistem Betonarme karkas kat \"",
+    "msg": "the rows sit 12px apart, about as close as a picture to its own caption (16px): a caption reads with the row below",
+    "fix": "set the gap between rows at twice the gap between a picture and its caption or more",
+    "widths": [
+     390
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "photo-weight",
+    "where": "div.wrap > div.grid.fill > div.frame.frame--photo > img.frame__img \"02.webp\"",
+    "msg": "3 photographs are 3x or more wider than drawn on the phone, with no srcset: 02.webp is 1600px (388 KB) for a 342px frame; on a phone it arrives late and its frame shows only its ground until then",
+    "fix": "give each photograph srcset and sizes (a 800px and a 1600px file), or a smaller file: the frame never shows empty",
+    "widths": [
+     390
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "empty-area",
+    "where": "section#tur \"71 Evler Kocakaya’da daireyi 3D gezin\"",
+    "msg": "42% of the section is empty: 288px of empty rows between its content, 320px under its last (a.frame.frame--photo), 3% beside content that covers under half the container, in its 1544px of rows (WARN over 35%, FAIL over 50%)",
+    "fix": "fill the section: a picture or a second column beside the words, or more of its own content; the section stays one or two screens tall (T-height)",
+    "widths": [
+     390
+    ],
+    "from": "consistency"
+   },
+   {
+    "check": "empty-area",
+    "where": "section#insaat \"Luna Evleri nasıl yükseldi\"",
+    "msg": "42% of the section is empty: 320px of empty rows between its content, 336px under its last (p), in its 1544px of rows (WARN over 35%, FAIL over 50%)",
+    "fix": "fill the section: a picture or a second column beside the words, or more of its own content; the section stays one or two screens tall (T-height)",
+    "widths": [
+     390
+    ],
+    "from": "consistency"
+   }
+  ],
+  "crashed": [],
+  "seconds": {
+   "consistency": 132,
+   "layout": 5
+  }
+ },
+ "open": [
+  {
+   "check": "card-layout",
+   "where": "section#insaat > div.wrap > ol.grid.pv-steps \"1. Taşıyıcı sistem Betonarme karkas kat \"",
+   "msg": "4 of 4 cards drawn one way (one panel, ground, placement and fragment): copies of one card",
+   "fix": "a card layout at most twice on a page: build the other sections another way",
+   "widths": [
+    1440,
+    390
+   ],
+   "from": "consistency",
+   "ids": [
+    "card-layout"
+   ],
+   "wheres": [
+    "section#insaat > div.wrap > ol.grid.pv-steps \"1. Taşıyıcı sistem Betonarme karkas kat \""
+   ]
+  },
+  {
+   "check": "section-gaps",
+   "where": "section#petrol / section#haberler",
+   "msg": "140px between these sections, -69% against the median 459px",
+   "fix": "use one gap between sections (all within 25% of each other)",
+   "widths": [
+    390
+   ],
+   "from": "consistency",
+   "ids": [
+    "section-gaps"
+   ],
+   "wheres": [
+    "section#petrol / section#haberler"
+   ]
+  }
+ ],
+ "waived": [
+  {
+   "check": "copy-headings",
+   "where": "div.span-4:nth-of-type(3) > a.tile > div.tile__head > h3 \"Emek Mahallesi Kızılırmak Sokak\"",
+   "msg": "\"Emek Mahallesi Kızılırmak Sokak\" names no product, part, place or section (6 headings like it; at most one brand line per page) (and 5 more like it: \"Atatürk Bulvarı\", \"Zafer Mahallesi Sefer So\", \"Eskişehir ve İnönü’de ik\", \"Sarıpekmez’den haberler\", ...)",
+   "fix": "name the thing in every heading: the product, a part, the place or a section noun",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "copy-headings"
+   ],
+   "wheres": [
+    "div.span-4:nth-of-type(3) > a.tile > div.tile__head > h3 \"Emek Mahallesi Kızılırmak Sokak\""
+   ],
+   "reason": "Türkçe proje/yer adları (Mahallesi, Sokak, Bulvarı); denetleyicinin isim sözlüğü İngilizce."
+  },
+  {
+   "check": "phone-number",
+   "where": "div.grid > div.span-2.footer__col:nth-of-type(5) > ul > li:nth-of-type(1) \"0222 227 31 11\"",
+   "msg": "a phone number with its area code: \"0222 227 31 11\"; a visitor can dial it and reach a stranger",
+   "fix": "drop the number and its tel: link (a \"Request a call\" form may stand in), unless the brief gives the number",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "phone-number"
+   ],
+   "wheres": [
+    "div.grid > div.span-2.footer__col:nth-of-type(5) > ul > li:nth-of-type(1) \"0222 227 31 11\""
+   ],
+   "reason": "Altbilgide firmanın gerçek telefonu; gerçek firma sitesi (KURALLAR.md §3)."
+  },
+  {
+   "check": "phone-number",
+   "where": "header.nav.nav--split > div.wrap.nav__bar > div.nav__actions > a.btn.btn--primary \"tel:+902222273111\"",
+   "msg": "a tel: link calls a number in a real dialable format: \"tel:+902222273111\"; a visitor can dial it and reach a stranger (and 3 more like it: div.hero-text.grid > div.hero__text.span-5 > div.btn-row > a.btn.btn--primary, div.wrap > div.closing__cta.close--photo > div.section-head--split > a.btn.btn--primary, div.span-2.footer__col:nth-of-type(5) > ul > li:nth-of-type(1) > a)",
+   "fix": "drop the number and its tel: link (a \"Request a call\" form may stand in), unless the brief gives the number",
+   "widths": [
+    1440
+   ],
+   "from": "consistency",
+   "ids": [
+    "phone-number"
+   ],
+   "wheres": [
+    "header.nav.nav--split > div.wrap.nav__bar > div.nav__actions > a.btn.btn--primary \"tel:+902222273111\""
+   ],
+   "reason": "Gerçek firma sitesi: firmanın kendi telefonu (KURALLAR.md §3, kural 9 istisnası)."
+  },
+  {
+   "check": "hero-lines",
+   "where": "section.hero h1",
+   "msg": "the check fills the h1 to 44 characters (this hero's maxChars in heroes.json), not the page's own: it takes 4 lines at 1440, 3 at most",
+   "fix": "the check fills the h1 to this hero's maxChars, not your own: take the next type pairing the deal printed (start.mjs); when the h1 is final and fits, waive it (target: section.hero h1)",
+   "widths": [
+    1440
+   ],
+   "from": "layout",
+   "ids": [
+    "hero-lines"
+   ],
+   "wheres": [
+    "section.hero h1"
+   ],
+   "reason": "h1 son hâlinde (40 karakter) 1440'ta 3 satır; 44 karakter stres testi bu metne uygulanmaz."
+  }
+ ],
+ "warnCount": 18,
+ "at": "2026-11-27T22:34:15.618Z",
+ "openTold": true
+}

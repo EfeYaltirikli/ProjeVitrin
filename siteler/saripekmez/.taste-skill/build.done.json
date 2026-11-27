@@ -1,0 +1,11 @@
+{
+ "page": "index.html",
+ "url": null,
+ "root": null,
+ "kind": "service",
+ "category": "Konut projeleri",
+ "primary": "Bizi arayın",
+ "rounds": 3,
+ "start": "2026-11-27T22:17:28.665Z",
+ "by": "gate.mjs --start"
+}

@@ -1,0 +1,94 @@
+/* Sarıpekmez · sayfa CSS: yalnız kitte olmayan görsel içi kurallar (taste-skill: page CSS) */
+
+/* logo */
+.nav__logo img { height: 30px; width: auto; display: block; }
+.footer__brand { display: inline-flex; align-items: center; gap: var(--s-3); font: var(--display-weight) 48px/1 var(--font-display); letter-spacing: var(--display-tracking); }
+.footer__brand img { width: 40px; height: auto; }
+@media (max-width: 639px) { .nav__logo img { height: 24px; } .footer__brand { font-size: 30px; } }
+
+/* proje kartları */
+.pv-tiles { row-gap: var(--s-6); }
+.pv-tiles .tile__head > h3 { font-size: var(--t-card); }
+.tile__media { position: relative; }
+.pv-badge { position: absolute; left: var(--s-3); top: var(--s-3); z-index: 1; padding: 4px 10px; border-radius: 999px; background: var(--p-bg); color: var(--p-ink); font-size: var(--t-label); font-weight: 500; }
+.pv-play { position: absolute; inset: 0; display: grid; place-items: center; }
+.pv-play::before { content: ""; width: 56px; height: 56px; border-radius: 50%; background: rgba(31, 33, 40, .78); }
+.pv-play::after { content: ""; position: absolute; border-style: solid; border-width: 9px 0 9px 15px; border-color: transparent transparent transparent #fff; margin-left: 4px; }
+
+/* süzgeçler */
+.pv-filters, .pv-filterbar { display: flex; flex-wrap: wrap; align-items: end; gap: var(--s-3) var(--s-5); }
+.pv-filterbar { justify-content: space-between; margin-bottom: var(--s-6); }
+.pv-seg { display: flex; flex-wrap: wrap; gap: var(--s-2); }
+.pv-chip { height: 44px; padding: 0 var(--s-4); border-radius: 999px; border: 1px solid var(--line); background: transparent; color: var(--ink); font: 500 var(--t-small)/1 var(--font-text); cursor: pointer; touch-action: manipulation; }
+.pv-chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.pv-chip[aria-pressed="true"] .muted { color: inherit; opacity: .7; }
+.pv-select { display: grid; gap: var(--s-1); }
+.pv-select select { height: 44px; min-width: 240px; padding: 0 var(--s-4); border-radius: var(--r-sm); border: 1px solid var(--line); background: var(--bg); color: var(--ink); font: 400 16px var(--font-text); }
+.pv-list { list-style: none; margin: 0; padding: 0; }
+.pv-list > li[hidden] { display: none; }
+.pv-empty { padding: var(--s-8) 0; max-width: 52ch; }
+.pv-empty h3 { font: var(--display-weight) var(--t-h3)/1.2 var(--font-display); margin: 0 0 var(--s-3); }
+.pv-pager { display: flex; gap: var(--s-2); margin-top: var(--s-6); }
+.pv-pager button { min-width: 44px; height: 44px; border-radius: var(--r-sm); border: 1px solid var(--line); background: transparent; color: var(--ink); font: 500 var(--t-small) var(--font-text); cursor: pointer; }
+.pv-pager button[aria-current="page"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+@media (max-width: 639px) { .pv-select select { min-width: 0; width: 100%; } .pv-select { width: 100%; } }
+
+/* harita */
+.pv-map { min-height: 420px; border-radius: var(--r-lg); overflow: hidden; background: var(--surface); z-index: 0; }
+.hero__media.pv-map { height: 100%; }
+.pv-map .leaflet-tile-pane { filter: grayscale(.8) sepia(.15) contrast(.92) brightness(1.04); }
+.pv-pin { width: 18px; height: 18px; border-radius: 50%; background: var(--p-ink); border: 3px solid #fab209; box-shadow: 0 1px 4px rgba(0, 0, 0, .35); }
+.pv-pin--n { width: 28px; height: 28px; display: grid; place-items: center; color: #fff; font: 600 12px var(--font-text); }
+.leaflet-popup-content { font: 400 14px/1.4 var(--font-text); margin: 10px 12px; }
+.leaflet-popup-content img { width: 200px; height: 120px; object-fit: cover; border-radius: 6px; display: block; margin-bottom: 6px; }
+.leaflet-popup-content a { color: var(--p-ink); font-weight: 500; }
+
+/* fotoğraf duvarı */
+.pv-wall { display: grid; gap: 2px; border-radius: var(--r-lg); overflow: hidden; }
+.pv-wall--1 { grid-template-columns: 1fr; }
+.pv-wall--2 { grid-template-columns: repeat(2, 1fr); }
+.pv-wall--3 { grid-template-columns: repeat(3, 1fr); }
+.pv-wall--4 { grid-template-columns: repeat(4, 1fr); }
+.pv-wall__item { display: block; overflow: clip; aspect-ratio: 4 / 3; background: var(--surface); }
+.pv-wall--1 .pv-wall__item { aspect-ratio: 16 / 9; max-height: 640px; }
+.pv-wall__item[hidden] { display: none; }
+.pv-wall__item img { width: 100%; height: 100%; object-fit: cover; transition: transform 600ms var(--ease); }
+@media (hover: hover) and (pointer: fine) { .pv-wall__item:hover img { transform: scale(1.03); } }
+.pv-wall--plan .pv-wall__item { background: #fff; }
+.pv-wall--plan .pv-wall__item img { object-fit: contain; }
+@media (max-width: 639px) { .pv-wall--3, .pv-wall--4 { grid-template-columns: repeat(2, 1fr); } .pv-wall--2 { grid-template-columns: 1fr; } }
+
+/* tarihçe rayı */
+.pv-rail { list-style: none; margin: 0; padding: 0; }
+.pv-rail > li { display: grid; gap: var(--s-2); align-content: start; }
+.pv-rail .panel { position: relative; height: 200px; border-radius: var(--r-lg); overflow: clip; margin-bottom: var(--s-3); }
+.pv-rail > li > p:last-child { color: var(--ink); }
+
+/* koyu bant */
+.pv-rows-inv > li { border-color: color-mix(in srgb, var(--p-inv-ink) 18%, transparent); }
+.pv-tour-shot { display: block; }
+
+/* haber metni */
+.pv-article { padding-bottom: var(--s-8); }
+.pv-article h2 { font: var(--display-weight) var(--t-h3)/1.2 var(--font-display); margin: var(--s-7) 0 var(--s-3); }
+.pv-article p { font-size: 18px; line-height: 1.7; margin: 0 0 var(--s-4); }
+.pv-article-sec { height: auto !important; }
+
+/* telefon: ana sayfadaki proje bölümünde ilk üç kart; 3D görüntü yeterince büyük */
+@media (max-width: 639px) {
+  #projeler .pv-row2 { display: none; }
+  .pv-tour-shot { aspect-ratio: 1 / 1; }
+}
+
+.pv-steps { list-style: none; margin: 0; padding: 0; }
+@media (max-width: 1023px) { .pv-steps > li { grid-column: span 6; } }
+@media (max-width: 639px) { .pv-steps > li { grid-column: 1 / -1; } }
+.pv-newslink { color: var(--ink); text-decoration: none; }
+.pv-newslink:hover { text-decoration: underline; }
+@media (max-width: 639px) { #petrol .frame--split { aspect-ratio: 4 / 3; } }
+.pv-hero--long h1 { font-size: clamp(30px, 2.6vw + 8px, 46px); line-height: 1.1; }
+.pv-hero--long .hero__lead { display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden; }
+
+/* 3D tur bölümü (proje sayfası) */
+.pv-tour-sec .section-head--row { align-items: end; }
+@media (max-width: 1023px) { .pv-tour-sec, #daireler { height: auto !important; min-height: 100svh; } }

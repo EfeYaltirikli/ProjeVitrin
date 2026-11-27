@@ -1,0 +1,22 @@
+[
+ {
+  "check": "phone-number",
+  "target": "tel:+902222273111",
+  "reason": "Gerçek firma sitesi: firmanın kendi telefonu (KURALLAR.md §3, kural 9 istisnası)."
+ },
+ {
+  "check": "hero-lines",
+  "target": "section.hero h1",
+  "reason": "h1 son hâlinde (40 karakter) 1440'ta 3 satır; 44 karakter stres testi bu metne uygulanmaz."
+ },
+ {
+  "check": "phone-number",
+  "target": "footer__col",
+  "reason": "Altbilgide firmanın gerçek telefonu; gerçek firma sitesi (KURALLAR.md §3)."
+ },
+ {
+  "check": "copy-headings",
+  "target": "tile__head > h3",
+  "reason": "Türkçe proje/yer adları (Mahallesi, Sokak, Bulvarı); denetleyicinin isim sözlüğü İngilizce."
+ }
+]

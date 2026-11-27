@@ -1,0 +1,319 @@
+{
+ "firma": {
+  "ad": "Sarıpekmez İnşaat",
+  "grup": "Sarıpekmez Grubu",
+  "kurulus": 1972,
+  "telefon": "0222 227 31 11",
+  "telefon_link": "+902222273111",
+  "faks": "0222 227 31 41",
+  "adres": {
+   "merkez": {
+    "ad": "Sarıpekmez İnşaat (Merkez)",
+    "sokak": "Ertaş Bulvarı No:231",
+    "semt": "71 Evler, Odunpazarı / Eskişehir",
+    "posta": "26080"
+   },
+   "petrol": {
+    "ad": "Sarıpekmez Petrol, 2. şube",
+    "sokak": "Bozüyük–Antalya Devlet Karayolu 15. km",
+    "semt": "İnönü / Eskişehir"
+   }
+  },
+  "instagram": "https://www.instagram.com/saripekmez.grup",
+  "eposta_petrol": "petrol@saripekmez.com.tr"
+ },
+ "kurumsal": {
+  "giris": "Sarıpekmez Grubu, 1972’den bu yana Eskişehir’de inşaat ve enerji alanlarında çalışan bir aile şirketi.",
+  "tarihce": [
+   {
+    "yil": "1972",
+    "baslik": "Temeller",
+    "metin": "Yapı malzemeleri ticareti ve inşaat taahhüt işleriyle başladık. “Kaliteli malzeme, dürüst işçilik” ilkesi o yıllardan kaldı."
+   },
+   {
+    "yil": "1970–2000",
+    "baslik": "Eskişehir’de uzmanlaşma",
+    "metin": "Eskişehir ve çevresinde konut ve ticari yapılar yaptık; malzeme tedarikini taahhüt işiyle birleştirdik."
+   },
+   {
+    "yil": "2005",
+    "baslik": "Enerjiye geçiş",
+    "metin": "21 Haziran 2005’te Sarıpekmez Petrol Gıda Ltd. Şti. kuruldu ve Shell ile iş ortaklığı başladı."
+   },
+   {
+    "yil": "Bugün",
+    "baslik": "İki iş kolu",
+    "metin": "Yapı malzemeleri, taahhüt ve enerji tek çatı altında. 2026’da ikinci Shell istasyonu İnönü’de açıldı."
+   }
+  ],
+  "hedefler": [
+   "Yapı, inşaat ve gayrimenkulde sürdürülebilir büyümek",
+   "Enerjide katma değerli yatırımlar yapmak",
+   "Bölgede uzun vadeli iş birlikleri kurmak",
+   "Kalıcı bir marka olmak"
+  ],
+  "misyon": "İnşaat ve enerji başta olmak üzere tüm işlerimizde güvenli ve yüksek kalitede projeler üretmek; çevreye, topluma ve etik ilkelere saygılı çalışmak.",
+  "vizyon": "Teknolojiyi doğru kullanarak, güvenilir iş ortaklarıyla değer üretmek; disiplinli çalışmayla kalıcı ve saygın bir kurum olarak yola devam etmek."
+ },
+ "petrol": {
+  "giris": "2006’dan bu yana Shell bayisi olarak Eskişehir’de akaryakıt istasyonu işletiyoruz.",
+  "istasyonlar": [
+   {
+    "ad": "Eskişehir istasyonu",
+    "yil": 2006,
+    "alan_m2": 6700,
+    "hizmetler": [
+     "Self servis araç yıkama",
+     "Yağ değişimi",
+     "2 işyeri, market ve sosyal tesis"
+    ]
+   },
+   {
+    "ad": "İnönü istasyonu",
+    "yil": 2026,
+    "alan_m2": 5500,
+    "hizmetler": [
+     "İstanbul–Bursa–Antalya güzergâhı üzerinde",
+     "Bozüyük–Antalya Devlet Karayolu 15. km"
+    ]
+   }
+  ],
+  "gunluk_litre": 45000,
+  "videolar": [
+   "-vlRzGEqx_8",
+   "89tQ0vd59Zo",
+   "V_lh0D7-ymQ",
+   "YBl22DyFVb4",
+   "zEUQNbH3xxo"
+  ],
+  "gorseller": [
+   {
+    "dosya": "petrol/01.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "dosya": "petrol/02.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "dosya": "petrol/03.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "dosya": "petrol/04.webp",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "dosya": "petrol/05.webp",
+    "w": 1600,
+    "h": 900
+   }
+  ]
+ },
+ "haberler": [
+  {
+   "slug": "saripekmez-grubu-insaat-ve-enerji-alanlarinda-cok-sektorlu-yapisini-guclendiriyor",
+   "baslik": "Sarıpekmez Grubu, İnşaat ve Enerji Alanlarında Çok Sektörlü Yapısını Güçlendiriyor",
+   "tarih": "2026-01-20",
+   "govde": [
+    {
+     "t": "p",
+     "x": "Eskişehir merkezli Sarıpekmez Grubu, inşaat ve enerji sektörlerinde yürüttüğü faaliyetleri bütüncül bir yaklaşımla ele alarak çok sektörlü hizmet yapısını güçlendirmeye devam ediyor. Grup bünyesinde sürdürülen çalışmalar, farklı iş kollarındaki operasyonların uyum içerisinde ilerlemesini ve hizmet süreçlerinin daha planlı bir yapıya kavuşmasını amaçlıyor."
+    },
+    {
+     "t": "p",
+     "x": "Yarım asrı aşkın süredir faaliyetlerini sürdüren Sarıpekmez Grubu, yapı malzemeleri, inşaat taahhüt ve enerji alanlarında edindiği tecrübeyi tek çatı altında koordine ederek operasyonel sürekliliği ön planda tutuyor. Çok sektörlü yapı, grubun saha yönetiminden tedarik süreçlerine kadar geniş bir alanda dengeli bir organizasyon modeli oluşturmasına olanak sağlıyor."
+    },
+    {
+     "t": "h",
+     "x": "İnşaat ve Yapı Malzemelerinde Entegre Hizmet Yaklaşımı"
+    },
+    {
+     "t": "p",
+     "x": "Sarıpekmez Grubu’nun inşaat alanındaki faaliyetleri; yapı malzemeleri tedariği ve taahhüt projeleriyle entegre bir şekilde yürütülüyor. Teknik yeterliliğe sahip ekipler tarafından planlanan saha uygulamaları, kalite standartları ve iş güvenliği kriterleri çerçevesinde hayata geçiriliyor. Yapı malzemeleri alanındaki güçlü tedarik altyapısı ise inşaat süreçlerinin verimli ve kontrollü ilerlemesine katkı sağlıyor."
+    },
+    {
+     "t": "p",
+     "x": "Bu yapı sayesinde proje süreçlerinde koordinasyon güçlenirken, uygulama aşamalarında zaman ve kaynak yönetimi daha etkin biçimde sağlanıyor."
+    },
+    {
+     "t": "h",
+     "x": "Enerji Alanında Süreklilik ve Operasyonel Denge"
+    },
+    {
+     "t": "p",
+     "x": "Grubun enerji sektöründeki faaliyetleri, 2005 yılından bu yana Shell markası çatısı altında yürütülüyor. Eskişehir’de hizmet veren akaryakıt istasyonu aracılığıyla bireysel ve kurumsal kullanıcıların enerji ihtiyaçlarına yönelik çözümler sunuluyor. Enerji alanındaki bu operasyonel yapı, Sarıpekmez Grubu’nun çok sektörlü faaliyet anlayışının önemli bir parçasını oluşturuyor."
+    },
+    {
+     "t": "p",
+     "x": "İnşaat ve enerji gibi farklı dinamiklere sahip alanlarda eş zamanlı faaliyet yürütülmesi, organizasyonel uyum ve disiplinli süreç yönetimini gerekli kılıyor. Bu doğrultuda grup bünyesinde planlama, denetim ve uygulama süreçleri koordineli bir şekilde ele alınıyor."
+    },
+    {
+     "t": "h",
+     "x": "Kurumsal Deneyimle Şekillenen Çok Sektörlü Yapı"
+    },
+    {
+     "t": "p",
+     "x": "1972 yılından bu yana Eskişehir’de faaliyet gösteren Sarıpekmez Grubu, geçmişten gelen deneyimini günümüzün operasyonel ihtiyaçlarıyla birleştirerek çok sektörlü yapısını istikrarlı biçimde sürdürüyor. İnşaat ve enerji alanlarında yürütülen çalışmalar, grubun uzun vadeli hizmet anlayışı doğrultusunda planlanarak operasyonel dengeyi destekliyor."
+    },
+    {
+     "t": "p",
+     "x": "Bu yapı, Sarıpekmez Grubu’nun farklı sektörlerde güvenilir, planlı ve sürdürülebilir hizmet üretme yaklaşımının bir yansıması olarak öne çıkıyor."
+    },
+    {
+     "t": "h",
+     "x": "Sarıpekmez Grubu Saha Uygulamalarında İş Güvenliği Odaklı Düzenlemeye Gidiyor"
+    },
+    {
+     "t": "p",
+     "x": "Eskişehir merkezli Sarıpekmez Grubu, inşaat, yapı malzemeleri ve enerji sektörlerinde yürüttüğü saha faaliyetlerinde iş sağlığı ve güvenliği uygulamalarını yeniden ele aldı. Grup bünyesinde gerçekleştirilen düzenleme çalışmaları, saha operasyonlarının daha kontrollü, güvenli ve sürdürülebilir bir yapıya kavuşmasını hedefliyor.\n\n&nbsp;\n\nYarım asrı aşkın süredir faaliyetlerini sürdüren Sarıpekmez Grubu, kurumsal sorumluluk anlayışı doğrultusunda çalışan güvenliğini operasyonel süreçlerin merkezine konumlandırıyor. Bu kapsamda yapılan düzenlemeler; risk analizleri, uygulama standartları ve saha denetim mekanizmalarını kapsayan bütüncül bir yaklaşımla ele alındı.\n\n&nbsp;\n\nSaha Süreçlerinde Standartlaşma ve Önleyici Yaklaşım\n\n&nbsp;\n\nGerçekleştirilen çalışmalar doğrultusunda, inşaat ve enerji alanındaki saha uygulamalarında kullanılan prosedürler güncellendi. İş güvenliği ekipmanlarının kullanımından çalışma alanı düzenine kadar pek çok başlık, güncel mevzuat ve sektörel iyi uygulamalar esas alınarak yeniden yapılandırıldı.\n\n&nbsp;\n\nSarıpekmez Grubu&rsquo;nun benimsediği yaklaşım, yalnızca mevcut risklere müdahale etmeyi değil, olası riskleri önceden tespit ederek önleyici tedbirler geliştirmeyi amaçlıyor. Bu doğrultuda saha ekipleri için bilgilendirme ve farkındalık çalışmaları da süreçlere entegre edildi.\n\n&nbsp;\n\nKurumsal Deneyim ve Sürdürülebilirlik Vurgusu\n\n&nbsp;\n\n1972 yılından bu yana Eskişehir&rsquo;de faaliyet gösteren Sarıpekmez Grubu, farklı sektörlerde edindiği tecrübeyi saha yönetimine de yansıtıyor. İnşaat yapı malzemeleri, taahhüt ve enerji alanlarında yürütülen çalışmalar, tek çatı altında koordine edilerek daha disiplinli bir saha organizasyonu oluşturuluyor.\n\n&nbsp;\n\nİş güvenliği odaklı bu düzenleme, yalnızca çalışan sağlığını korumayı değil, aynı zamanda operasyonel sürekliliği ve hizmet kalitesini de destekliyor. Güvenli çalışma ortamlarının, verimli ve planlı süreçlerin temelini oluşturduğu anlayışıyla hareket eden Sarıpekmez Grubu, saha uygulamalarında uzun vadeli bir kalite standardı oluşturmayı hedefliyor.\n\n&nbsp;\n\nYapılan düzenlemeler, grubun kurumsal yönetim yaklaşımıyla uyumlu şekilde hayata geçirilirken; güven, kalite ve sorumluluk ilkeleri doğrultusunda faaliyetlerin sürdürülebilir biçimde devam etmesine katkı sağlıyor."
+    },
+    {
+     "t": "h",
+     "x": "Sarıpekmez Grubu, İnşaat Sektöründe Planlı ve Kontrollü Çalışma Modelini Benimsiyor"
+    }
+   ],
+   "gorsel": {
+    "dosya": "haber/saripekmez-grubu-insaat-ve-enerji-alanla.webp",
+    "w": 1600,
+    "h": 900
+   }
+  },
+  {
+   "slug": "saripekmez-grubu-saha-uygulamalarinda-is-guvenligi-odakli-duzenlemeye-gidiyor",
+   "baslik": "Sarıpekmez Grubu Saha Uygulamalarında İş Güvenliği Odaklı Düzenlemeye Gidiyor",
+   "tarih": "2026-01-19",
+   "govde": [
+    {
+     "t": "p",
+     "x": "Eskişehir merkezli Sarıpekmez Grubu, inşaat, yapı malzemeleri ve enerji sektörlerinde yürüttüğü saha faaliyetlerinde iş sağlığı ve güvenliği uygulamalarını yeniden ele aldı. Grup bünyesinde gerçekleştirilen düzenleme çalışmaları, saha operasyonlarının daha kontrollü, güvenli ve sürdürülebilir bir yapıya kavuşmasını hedefliyor."
+    },
+    {
+     "t": "p",
+     "x": "Yarım asrı aşkın süredir faaliyetlerini sürdüren Sarıpekmez Grubu, kurumsal sorumluluk anlayışı doğrultusunda çalışan güvenliğini operasyonel süreçlerin merkezine konumlandırıyor. Bu kapsamda yapılan düzenlemeler; risk analizleri, uygulama standartları ve saha denetim mekanizmalarını kapsayan bütüncül bir yaklaşımla ele alındı."
+    },
+    {
+     "t": "h",
+     "x": "Saha Süreçlerinde Standartlaşma ve Önleyici Yaklaşım"
+    },
+    {
+     "t": "p",
+     "x": "Gerçekleştirilen çalışmalar doğrultusunda, inşaat ve enerji alanındaki saha uygulamalarında kullanılan prosedürler güncellendi. İş güvenliği ekipmanlarının kullanımından çalışma alanı düzenine kadar pek çok başlık, güncel mevzuat ve sektörel iyi uygulamalar esas alınarak yeniden yapılandırıldı."
+    },
+    {
+     "t": "p",
+     "x": "Sarıpekmez Grubu’nun benimsediği yaklaşım, yalnızca mevcut risklere müdahale etmeyi değil, olası riskleri önceden tespit ederek önleyici tedbirler geliştirmeyi amaçlıyor. Bu doğrultuda saha ekipleri için bilgilendirme ve farkındalık çalışmaları da süreçlere entegre edildi."
+    },
+    {
+     "t": "h",
+     "x": "Kurumsal Deneyim ve Sürdürülebilirlik Vurgusu"
+    },
+    {
+     "t": "p",
+     "x": "1972 yılından bu yana Eskişehir’de faaliyet gösteren Sarıpekmez Grubu, farklı sektörlerde edindiği tecrübeyi saha yönetimine de yansıtıyor. İnşaat yapı malzemeleri, taahhüt ve enerji alanlarında yürütülen çalışmalar, tek çatı altında koordine edilerek daha disiplinli bir saha organizasyonu oluşturuluyor."
+    },
+    {
+     "t": "p",
+     "x": "İş güvenliği odaklı bu düzenleme, yalnızca çalışan sağlığını korumayı değil, aynı zamanda operasyonel sürekliliği ve hizmet kalitesini de destekliyor. Güvenli çalışma ortamlarının, verimli ve planlı süreçlerin temelini oluşturduğu anlayışıyla hareket eden Sarıpekmez Grubu, saha uygulamalarında uzun vadeli bir kalite standardı oluşturmayı hedefliyor."
+    },
+    {
+     "t": "p",
+     "x": "Yapılan düzenlemeler, grubun kurumsal yönetim yaklaşımıyla uyumlu şekilde hayata geçirilirken; güven, kalite ve sorumluluk ilkeleri doğrultusunda faaliyetlerin sürdürülebilir biçimde devam etmesine katkı sağlıyor."
+    },
+    {
+     "t": "h",
+     "x": "Sarıpekmez Grubu, İnşaat Sektöründe Planlı ve Kontrollü Çalışma Modelini Benimsiyor"
+    },
+    {
+     "t": "p",
+     "x": "Eskişehir merkezli Sarıpekmez Grubu, inşaat sektöründeki faaliyetlerinde planlı ve kontrollü çalışma modelini esas alan bir yaklaşımı hayata geçirdi. Grup bünyesinde yürütülen çalışmalar, inşaat projelerinin yalnızca ürün teminiyle sınırlı kalmamasını; süreç yönetimi, kalite kontrol ve süreklilik ilkeleri doğrultusunda ele alınmasını amaçlıyor.\n\n&nbsp;\n\n1972 yılından bu yana inşaat ve enerji sektörlerinde faaliyet gösteren Sarıpekmez Grubu, uzun yıllara dayanan sektörel deneyimini proje&nbsp;süreçlerine yansıtarak daha öngörülebilir ve disiplinli bir yapı oluşturmayı hedefliyor.\n\n&nbsp;\n\nKontrollü Tedarik Yaklaşımı ile Operasyonel Uyum\n\n&nbsp;\n\nBenimsenen yeni model kapsamında, ürün tedarikinden saha teslimatına kadar olan tüm aşamalar belirli standartlar çerçevesinde yönetiliyor. İnşaat zincirinin her adımı; planlama, kontrol ve takip mekanizmalarıyla desteklenerek olası aksaklıkların önüne geçilmesi hedefleniyor.\n\n&nbsp;\n\nBu yaklaşım sayesinde Sarıpekmez Grubu, inşaat taahhüt projelerinde kullanılan yapı malzemelerinin kalite standartlarına uygunluğunu ve sürekliliğini güvence altına alıyor. Aynı zamanda farklı projelerin ihtiyaçlarına uygun çözümler, planlı bir organizasyon yapısı içerisinde koordine ediliyor.\n\n&nbsp;\n\nSektörel Deneyimle Şekillenen Hizmet Anlayışı\n\n&nbsp;\n\nYarım asrı aşan geçmişiyle Sarıpekmez Grubu, sektörde edindiği bilgi birikimini sahaya entegre eden bir hizmet anlayışı benimsiyor. İnşaat projelerinde karşılaşılan teknik gereksinimler ve zamanlama hassasiyetleri, planlamalarının&nbsp;temel bileşenleri arasında yer alıyor.\n\n&nbsp;\n\n&nbsp;\n\nUzun Vadeli Hizmet Standardı Hedefi\n\n&nbsp;\n\nSarıpekmez Grubu&rsquo;nun benimsediği planlı ve kontrollü çalışma modeli, kalite, güven ve süreklilik ilkeleri doğrultusunda şekilleniyor. Sektördeki bu yaklaşım, hem mevcut projelerin sağlıklı ilerlemesini hem de uzun vadeli operasyonel istikrarın korunmasını amaçlıyor.\n\n&nbsp;\n\nGerçekleştirilen uygulamalar, grubun kurumsal duruşunu güçlendirirken&nbsp;sürdürülebilir ve dengeli bir çalışma yapısının oluşturulmasına katkı sağlıyor."
+    }
+   ],
+   "gorsel": {
+    "dosya": "haber/saripekmez-grubu-saha-uygulamalarinda-is.webp",
+    "w": 850,
+    "h": 458
+   }
+  },
+  {
+   "slug": "saripekmez-grubu-yapi-malzemeleri-alaninda-planli-ve-kontrollu-tedarik-modelini-benimsiyor",
+   "baslik": "Sarıpekmez Grubu, İnşaat Sektöründe Planlı ve Kontrollü Çalışma Modelini Benimsiyor",
+   "tarih": "2026-01-20",
+   "govde": [
+    {
+     "t": "p",
+     "x": "Eskişehir merkezli Sarıpekmez Grubu, inşaat sektöründeki faaliyetlerinde planlı ve kontrollü çalışma modelini esas alan bir yaklaşımı hayata geçirdi. Grup bünyesinde yürütülen çalışmalar, inşaat projelerinin yalnızca ürün teminiyle sınırlı kalmamasını; süreç yönetimi, kalite kontrol ve süreklilik ilkeleri doğrultusunda ele alınmasını amaçlıyor."
+    },
+    {
+     "t": "p",
+     "x": "1972 yılından bu yana inşaat ve enerji sektörlerinde faaliyet gösteren Sarıpekmez Grubu, uzun yıllara dayanan sektörel deneyimini proje süreçlerine yansıtarak daha öngörülebilir ve disiplinli bir yapı oluşturmayı hedefliyor."
+    },
+    {
+     "t": "h",
+     "x": "Kontrollü Tedarik Yaklaşımı ile Operasyonel Uyum"
+    },
+    {
+     "t": "p",
+     "x": "Benimsenen yeni model kapsamında, ürün tedarikinden saha teslimatına kadar olan tüm aşamalar belirli standartlar çerçevesinde yönetiliyor. İnşaat zincirinin her adımı; planlama, kontrol ve takip mekanizmalarıyla desteklenerek olası aksaklıkların önüne geçilmesi hedefleniyor."
+    },
+    {
+     "t": "p",
+     "x": "Bu yaklaşım sayesinde Sarıpekmez Grubu, inşaat taahhüt projelerinde kullanılan yapı malzemelerinin kalite standartlarına uygunluğunu ve sürekliliğini güvence altına alıyor. Aynı zamanda farklı projelerin ihtiyaçlarına uygun çözümler, planlı bir organizasyon yapısı içerisinde koordine ediliyor."
+    },
+    {
+     "t": "h",
+     "x": "Sektörel Deneyimle Şekillenen Hizmet Anlayışı"
+    },
+    {
+     "t": "p",
+     "x": "Yarım asrı aşan geçmişiyle Sarıpekmez Grubu, sektörde edindiği bilgi birikimini sahaya entegre eden bir hizmet anlayışı benimsiyor. İnşaat projelerinde karşılaşılan teknik gereksinimler ve zamanlama hassasiyetleri, planlamalarının temel bileşenleri arasında yer alıyor."
+    },
+    {
+     "t": "h",
+     "x": "Uzun Vadeli Hizmet Standardı Hedefi"
+    },
+    {
+     "t": "p",
+     "x": "Sarıpekmez Grubu’nun benimsediği planlı ve kontrollü çalışma modeli, kalite, güven ve süreklilik ilkeleri doğrultusunda şekilleniyor. Sektördeki bu yaklaşım, hem mevcut projelerin sağlıklı ilerlemesini hem de uzun vadeli operasyonel istikrarın korunmasını amaçlıyor."
+    },
+    {
+     "t": "p",
+     "x": "Gerçekleştirilen uygulamalar, grubun kurumsal duruşunu güçlendirirken sürdürülebilir ve dengeli bir çalışma yapısının oluşturulmasına katkı sağlıyor."
+    },
+    {
+     "t": "h",
+     "x": "Sarıpekmez Grubu, İnşaat ve Enerji Alanlarında Çok Sektörlü Yapısını Güçlendiriyor"
+    },
+    {
+     "t": "p",
+     "x": "Eskişehir merkezli Sarıpekmez Grubu, inşaat ve enerji sektörlerinde yürüttüğü faaliyetleri bütüncül bir yaklaşımla ele alarak çok sektörlü hizmet yapısını güçlendirmeye devam ediyor. Grup bünyesinde sürdürülen çalışmalar, farklı iş kollarındaki operasyonların uyum içerisinde ilerlemesini ve hizmet süreçlerinin daha planlı bir yapıya kavuşmasını amaçlıyor.\n\n&nbsp;\n\nYarım asrı aşkın süredir faaliyetlerini sürdüren Sarıpekmez Grubu, yapı malzemeleri, inşaat taahhüt ve enerji alanlarında edindiği tecrübeyi tek çatı altında koordine ederek operasyonel sürekliliği ön planda tutuyor. Çok sektörlü yapı, grubun saha yönetiminden tedarik süreçlerine kadar geniş bir alanda dengeli bir organizasyon modeli oluşturmasına olanak sağlıyor.\n\n&nbsp;\n\nİnşaat ve Yapı Malzemelerinde Entegre Hizmet Yaklaşımı\n\n&nbsp;\n\nSarıpekmez Grubu&rsquo;nun inşaat alanındaki faaliyetleri; yapı malzemeleri tedariği ve taahhüt projeleriyle entegre bir şekilde yürütülüyor. Teknik yeterliliğe sahip ekipler tarafından planlanan saha uygulamaları, kalite standartları ve iş güvenliği kriterleri çerçevesinde hayata geçiriliyor. Yapı malzemeleri alanındaki güçlü tedarik altyapısı ise inşaat süreçlerinin verimli ve kontrollü ilerlemesine katkı sağlıyor.\n\n&nbsp;\n\nBu yapı sayesinde proje süreçlerinde koordinasyon güçlenirken, uygulama aşamalarında zaman ve kaynak yönetimi daha etkin biçimde sağlanıyor.\n\n&nbsp;\n\nEnerji Alanında Süreklilik ve Operasyonel Denge\n\n&nbsp;\n\nGrubun enerji sektöründeki faaliyetleri, 2005 yılından bu yana Shell markası çatısı altında yürütülüyor. Eskişehir&rsquo;de hizmet veren akaryakıt istasyonu aracılığıyla bireysel ve kurumsal kullanıcıların enerji ihtiyaçlarına yönelik çözümler sunuluyor. Enerji alanındaki bu operasyonel yapı, Sarıpekmez Grubu&rsquo;nun çok sektörlü faaliyet anlayışının önemli bir parçasını oluşturuyor.\n\n&nbsp;\n\nİnşaat ve enerji gibi farklı dinamiklere sahip alanlarda eş zamanlı faaliyet yürütülmesi, organizasyonel uyum ve disiplinli süreç yönetimini gerekli kılıyor. Bu doğrultuda grup bünyesinde planlama, denetim ve uygulama süreçleri koordineli bir şekilde ele alınıyor.\n\n&nbsp;\n\nKurumsal Deneyimle Şekillenen Çok Sektörlü Yapı\n\n&nbsp;\n\n1972 yılından bu yana Eskişehir&rsquo;de faaliyet gösteren Sarıpekmez Grubu, geçmişten gelen deneyimini günümüzün operasyonel ihtiyaçlarıyla birleştirerek çok sektörlü yapısını istikrarlı biçimde sürdürüyor. İnşaat ve enerji alanlarında yürütülen çalışmalar, grubun uzun vadeli hizmet anlayışı doğrultusunda planlanarak operasyonel dengeyi destekliyor.\n\n&nbsp;\n\nBu yapı, Sarıpekmez Grubu&rsquo;nun farklı sektörlerde güvenilir, planlı ve sürdürülebilir hizmet üretme yaklaşımının bir yansıması olarak öne çıkıyor."
+    }
+   ],
+   "gorsel": {
+    "dosya": "haber/saripekmez-grubu-yapi-malzemeleri-alanin.webp",
+    "w": 850,
+    "h": 458
+   }
+  }
+ ],
+ "kategoriler": [
+  {
+   "id": "biten",
+   "ad": "Tamamlanan"
+  },
+  {
+   "id": "devam",
+   "ad": "Devam eden",
+   "yakinda": true
+  },
+  {
+   "id": "baslayan",
+   "ad": "Başlayan",
+   "yakinda": true
+  }
+ ]
+}
